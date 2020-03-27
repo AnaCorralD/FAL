@@ -1,0 +1,4 @@
+﻿  34.cpp
+E:\Universidad\2º\FAL\Juez\Iterativos\34 -Todos con la seleccion\34.cpp(17,25): warning C4838: la conversión de 'unsigned int' en 'int' requiere una conversión de restricción
+E:\Universidad\2º\FAL\Juez\Iterativos\34 -Todos con la seleccion\34.cpp(19,20): warning C4018: '<': no coinciden signed/unsigned
+  34 -Todos con la seleccion.vcxproj -> E:\Universidad\2º\FAL\Juez\Iterativos\34 -Todos con la seleccion\Debug\34 -Todos con la seleccion.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Torneo de tenis", "Torneo de tenis.vcxproj", "{316FB918-55C9-4D65-8956-76A4C9AE22EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316FB918-55C9-4D65-8956-76A4C9AE22EC}.Debug|x64.ActiveCfg = Debug|x64
+		{316FB918-55C9-4D65-8956-76A4C9AE22EC}.Debug|x64.Build.0 = Debug|x64
+		{316FB918-55C9-4D65-8956-76A4C9AE22EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{316FB918-55C9-4D65-8956-76A4C9AE22EC}.Debug|x86.Build.0 = Debug|Win32
+		{316FB918-55C9-4D65-8956-76A4C9AE22EC}.Release|x64.ActiveCfg = Release|x64
+		{316FB918-55C9-4D65-8956-76A4C9AE22EC}.Release|x64.Build.0 = Release|x64
+		{316FB918-55C9-4D65-8956-76A4C9AE22EC}.Release|x86.ActiveCfg = Release|Win32
+		{316FB918-55C9-4D65-8956-76A4C9AE22EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2995BDC-3770-4464-AD20-E65BEC28093A}
+	EndGlobalSection
+EndGlobal
